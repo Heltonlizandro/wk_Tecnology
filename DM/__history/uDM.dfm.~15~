@@ -1,0 +1,32 @@
+object DM: TDM
+  OldCreateOrder = False
+  Height = 369
+  Width = 393
+  object Banco: TFDConnection
+    Params.Strings = (
+      'Database=wk_db'
+      'User_Name=root'
+      'Password=1234'
+      'Server=localhost'
+      'DriverID=MySQL'
+      'Compress=True'
+      'ResultMode=Store'
+      'UseSSL=False')
+    FetchOptions.AssignedValues = [evAutoClose]
+    LoginPrompt = False
+    Transaction = Transaction
+    UpdateTransaction = Transaction
+    Left = 72
+    Top = 56
+  end
+  object Transaction: TFDTransaction
+    Connection = Banco
+    Left = 72
+    Top = 120
+  end
+  object FDQuery1: TFDQuery
+    Connection = Banco
+    Left = 184
+    Top = 168
+  end
+end

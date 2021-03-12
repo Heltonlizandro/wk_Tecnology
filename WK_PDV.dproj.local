@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/06 12:44:24.000.838,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/06 12:44:47.000.629,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\Producao\D_Seattle\pdv\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2021/01/06 12:44:47.000.629,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\Producao\D_Seattle\pdv\uFrmPrincipal.pas</Transaction>
+    <Transaction>2021/01/06 12:45:07.000.847,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Producao\D_Seattle\pdv\PDV_OnLine.dproj</Transaction>
+    <Transaction>2021/01/06 12:45:39.000.382,=F:\Producao\D_Seattle\pdv\Unit1.pas</Transaction>
+    <Transaction>2021/01/06 12:45:49.000.509,F:\Producao\D_Seattle\pdv\Unit1.pas=F:\Producao\D_Seattle\pdv\forms\uFrmPadrao.pas</Transaction>
+    <Transaction>2021/01/06 12:45:49.000.509,F:\Producao\D_Seattle\pdv\Unit1.dfm=F:\Producao\D_Seattle\pdv\forms\uFrmPadrao.dfm</Transaction>
+    <Transaction>2021/01/07 15:08:45.000.841,=F:\Producao\D_Seattle\pdv\Unit1.pas</Transaction>
+    <Transaction>2021/01/07 15:09:00.000.215,F:\Producao\D_Seattle\pdv\Unit1.pas=F:\Producao\D_Seattle\pdv\forms\uFrmAberturaCaixa.pas</Transaction>
+    <Transaction>2021/01/07 15:09:00.000.215,F:\Producao\D_Seattle\pdv\Unit1.dfm=F:\Producao\D_Seattle\pdv\forms\uFrmAberturaCaixa.dfm</Transaction>
+    <Transaction>2021/01/07 23:21:09.000.045,=F:\Producao\D_Seattle\pdv\Unit1.pas</Transaction>
+    <Transaction>2021/01/07 23:21:21.000.356,F:\Producao\D_Seattle\pdv\forms\uFrmVendas.dfm=F:\Producao\D_Seattle\pdv\Unit1.dfm</Transaction>
+    <Transaction>2021/01/07 23:21:21.000.356,F:\Producao\D_Seattle\pdv\forms\uFrmVendas.pas=F:\Producao\D_Seattle\pdv\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 15:57:56.000.883,=F:\Producao\D_Seattle\pdv\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 16:04:47.000.477,F:\Producao\D_Seattle\pdv\forms\uFrmCliente.dfm=F:\Producao\D_Seattle\pdv\Unit1.dfm</Transaction>
+    <Transaction>2021/01/08 16:04:47.000.477,F:\Producao\D_Seattle\pdv\forms\uFrmCliente.pas=F:\Producao\D_Seattle\pdv\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 20:45:38.000.034,=F:\Producao\D_Seattle\pdv\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 20:45:57.000.233,F:\Producao\D_Seattle\pdv\forms\uFrmFormaPagamento.dfm=F:\Producao\D_Seattle\pdv\Unit1.dfm</Transaction>
+    <Transaction>2021/01/08 20:45:57.000.233,F:\Producao\D_Seattle\pdv\forms\uFrmFormaPagamento.pas=F:\Producao\D_Seattle\pdv\Unit1.pas</Transaction>
+    <Transaction>2021/03/10 19:07:47.000.492,F:\Producao\D_Seattle\WK_Tecnologia\WK_PDV.dproj=F:\Producao\D_Seattle\WK_Tecnologia\PDV_OnLine.dproj</Transaction>
+    <Transaction>2021/03/10 19:09:50.000.470,F:\Producao\D_Seattle\WK_Tecnologia\forms\uFrmAberturaCaixa.pas=</Transaction>
+    <Transaction>2021/03/10 20:08:08.000.024,=F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2021/03/10 20:08:50.000.515,F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas=F:\Producao\D_Seattle\WK_Tecnologia\classes\uTVenda.pas</Transaction>
+    <Transaction>2021/03/10 20:11:13.000.786,=F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2021/03/10 20:11:30.000.644,F:\Producao\D_Seattle\WK_Tecnologia\Unit1.dfm=F:\Producao\D_Seattle\WK_Tecnologia\DM\uDM.dfm</Transaction>
+    <Transaction>2021/03/10 20:11:30.000.644,F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas=F:\Producao\D_Seattle\WK_Tecnologia\DM\uDM.pas</Transaction>
+    <Transaction>2021/03/11 12:24:18.000.184,=F:\Producao\D_Seattle\WK_Tecnologia\Objetos\uTConexao.pas</Transaction>
+    <Transaction>2021/03/11 12:24:22.000.007,=F:\Producao\D_Seattle\WK_Tecnologia\Objetos\uTController.pas</Transaction>
+    <Transaction>2021/03/11 12:32:02.000.082,=F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 12:32:23.000.689,F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas=F:\Producao\D_Seattle\WK_Tecnologia\classes\uTVendaProdutos.pas</Transaction>
+    <Transaction>2021/03/11 12:44:00.000.439,=F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 12:44:11.000.964,F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas=F:\Producao\D_Seattle\WK_Tecnologia\classes\uTProduto.pas</Transaction>
+    <Transaction>2021/03/11 16:13:12.000.492,=F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 16:13:21.000.654,F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas=F:\Producao\D_Seattle\WK_Tecnologia\classes\uTCliente.pas</Transaction>
+    <Transaction>2021/03/11 16:17:28.000.586,=F:\Producao\D_Seattle\WK_Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 16:20:52.000.245,=F:\Producao\D_Seattle\WK_Tecnologia\Objetos\uFrmPesquisa.pas</Transaction>
+    <Transaction>2021/03/11 20:00:38.000.738,=F:\Producao\D_Seattle\WK_Tecnologia\Objetos\uFuncoes.pas</Transaction>
+  </Transactions>
+</BorlandProject>

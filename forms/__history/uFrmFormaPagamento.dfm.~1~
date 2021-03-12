@@ -1,0 +1,5 @@
+inherited FormPadrao1: TFormPadrao1
+  Caption = 'FormPadrao1'
+  PixelsPerInch = 96
+  TextHeight = 13
+end

@@ -1,0 +1,33 @@
+unit uFuncoes;
+
+interface
+
+type
+
+  TValidacao = class
+	  class function  RetornaNumero(Valor: string): Double;
+
+  end;
+  
+implementation
+
+class function TValidacao.RetornaNumero(Valor: string): Double;
+var
+  I: Integer;
+  Retorno : String;
+begin
+  try
+    if Trim(Valor) <> EmptyStr then
+    begin
+      for I := 1 to length(Valor) do
+        if Valor[I] <> '.' then
+          Retorno := Retorno + Valor[I];
+    end;
+    Result := StrToFloat(Retorno);
+  except
+    Result := 0;
+  end;
+end;
+
+
+end.

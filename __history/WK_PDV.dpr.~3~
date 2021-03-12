@@ -1,0 +1,19 @@
+program WK_PDV;
+
+uses
+  Vcl.Forms,
+  uFrmPrincipal in 'uFrmPrincipal.pas' {FrmPrincipal},
+  uFrmPadrao in 'forms\uFrmPadrao.pas' {FormPadrao},
+  uFrmVendas in 'forms\uFrmVendas.pas' {FrmVendas},
+  uFrmCliente in 'forms\uFrmCliente.pas' {FrmCliente},
+  uFrmFormaPagamento in 'forms\uFrmFormaPagamento.pas' {FrmFormaPagamento},
+  uTVenda in 'classes\uTVenda.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.Run;
+end.
